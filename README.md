@@ -1,3 +1,6 @@
+**Hello world 👋**
+
+- 🌱 I’m currently learning ... JavaScript
 
 ```javascript
 function keepLearning(javascript, css, html) {
@@ -8,6 +11,8 @@ function keepLearning(javascript, css, html) {
     return false;
  }   
 ```
+
+- I contribute to open source and I also write for the ember times 📰 when I can. 
 <!--
 **roderickdevelopers/roderickdevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
