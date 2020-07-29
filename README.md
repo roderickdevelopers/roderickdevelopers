@@ -6,10 +6,11 @@
 function keepLearning(javascript, css, html) {
   var getJob = javascript && css && html;
   if (getJob) {
-    return true
+    return true;
   } else {
     return false;
- }   
+  }
+}  
 ```
 
 - I contribute to open source, It is a great way to learn and work with a team. I also write for the [embertimes 📰](https://blog.emberjs.com/tags/newsletter.html) when I can. 
