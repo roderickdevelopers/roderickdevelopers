@@ -1,8 +1,13 @@
 
-```HTML
-<h1> Hi there 👋 </h1>
+```javascript
+function keepLearning(javascript, css, html) {
+  var getJob = javascript && css && html;
+  if (getJob) {
+    return true
+  } else {
+    return false;
+ }   
 ```
-
 <!--
 **roderickdevelopers/roderickdevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
